@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cashkid500
+- 👋 Hi, I’m Balogun Murtadho
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on solving real world problems
