@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Balogun Murtadho
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on solving real world problems
+- 💞 I’m looking to collaborate on solving real world problems
 - 📫 How to reach me murtadhob@yahoo.com, murtadhob@gmail.com and 08189065361
 
 <!---
