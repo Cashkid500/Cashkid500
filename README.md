@@ -28,16 +28,8 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/balogun-murtadho-1b1022222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
->    <a href="https://wa.me/+2348189065361" target="_blank_"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
->      alt="Balogun Murtadho" height="30" width="40" /></a> 
->  <a href="https://www.facebook.com/profile.php?id=100074186913931" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Balogun Murtadho" height="30" width="40" /></a> 
->  <a href="https://www.instagram.com/cashkid500" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Balogun Murtadho" height="30" width="40" /></a> 
-> <a href="https://twitter.com/Mubskid" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Balogun Murtadho" height="30" width="40" /></a> 
-> </p>
+<a href="https://wa.me/+2348189065361" target="_blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+<a href="https://www.facebook.com/profile.php?id=100074186913931" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/cashkid500" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+<a href="https://twitter.com/Mubskid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+</p>
