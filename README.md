@@ -1,4 +1,4 @@
-# Hello friend... <hr>
+# Hello friends... <hr>
 
 <!-- <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p> -->
 
@@ -13,7 +13,7 @@
 
 
 ## What am I learning right now? 
-  - 🌱 I’m currently learning JavaScript and Software Engineering in general
+  🌱 I’m currently learning JavaScript and Software Engineering in general
  
  
 ## What am I currently working on?  
@@ -26,10 +26,8 @@
    I'm mostly surfing the internet, making research or learning one other skill or the other<hr>
    
 <h2 align="center">Connect with me:</h2>
-><p align="center">
-> <a href="https://www.linkedin.com/in/balogun-murtadho-1b1022222" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
->      alt="Balogun Murtadho" height="30" width="40" /></a> 
+<p align="center">
+<a href="https://www.linkedin.com/in/balogun-murtadho-1b1022222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 >    <a href="https://wa.me/+2348189065361" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
 >      alt="Balogun Murtadho" height="30" width="40" /></a> 
