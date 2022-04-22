@@ -25,8 +25,8 @@
 
    I'm mostly surfing the internet, making research or learning one other skill or the other<hr>
    
-<h2 align="center">Connect with me:</h2>
-<p align="center">
+<h2 align="left">Connect with me:</h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/balogun-murtadho-1b1022222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 <a href="https://wa.me/+2348189065361" target="_blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/profile.php?id=100074186913931" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
