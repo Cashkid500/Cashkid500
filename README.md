@@ -19,7 +19,7 @@
 ## What am I currently working on?  
   Backend Road work
 
-#### I’m looking for help with growth as a programmer, coder. And growth in general.
+## 💞 I’m looking to collaborate on solving real world problems
 
 ### When I'm not programming?
 
