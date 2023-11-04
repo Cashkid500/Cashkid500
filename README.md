@@ -5,7 +5,7 @@
 
 
 <h2>Hey! </h2>
- I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. <hr>
+ I'm a self-taught programmer who is learning to code to solve real world problems and enjoys learning new things. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. <hr>
 
 <h2 align = "center" >My Tech Stack</h2>
 
@@ -13,11 +13,11 @@
 
 
 ## What am I learning right now? 
-  🌱 I’m currently learning JavaScript and Software Engineering in general
+  🌱 I’m currently learning Flutter and Software Engineering in general
  
  
 ## What am I currently working on?  
-  Backend Road work
+  Mobile Application Development
 
 ## 💞 I’m looking to collaborate on solving real world problems
 
@@ -27,9 +27,9 @@
    
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/balogun-murtadho-1b1022222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/balogun-murtadho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 <a href="https://wa.me/+2348189065361" target="_blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/profile.php?id=100074186913931" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/cashkid500" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
-<a href="https://twitter.com/Mubskid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
+<a href="https://twitter.com/BalogunMurtadho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Balogun Murtadho" height="30" width="40" /></a> 
 </p>
